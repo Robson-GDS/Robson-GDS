@@ -1,6 +1,6 @@
-## Salve! Eu sou o Robson Gomes dos Santos 👋
+## Salve! Sou o Robson Gomes dos Santos 👋
 
-- Estudante de programação.
+- Desenvolvedor web JR.
 - Estudando HTML | CSS | Javascript | Reactjs | Nodejs
 - Aluno da Fatec de Mauá 
   - Curso: Informatica para negócios 
