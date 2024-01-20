@@ -1,3 +1,3 @@
-## Salve! Sou o Robson Gomes dos Santos 👋
+## Robson Gomes dos Santos 👋
 
-- Desenvolvedor fullstack Java/React.
+- Desenvolvedor fullstack Java/React/Angular.
